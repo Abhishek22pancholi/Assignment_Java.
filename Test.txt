@@ -1,0 +1,2 @@
+This is the Test file in ThirdBranch. To check merge using GitBash.
+
